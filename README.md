@@ -37,12 +37,11 @@ seguem abaixo.
       width=80 
       src="foto2.jpg"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspDaniela Miranda<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/daniti-caixa">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="www.linkedin.com/daniela-miranda-6b6a64110">LinkedIn</a>
 &nbsp;|&nbsp;
     <a href="https://www.instagram.com/danielarodriguesdemiranda/">
     Instagram</a>
@@ -53,4 +52,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/daniti-caixa)
+⌨️ com 💜 por [Daniela Miranda](https://github.com/daniti-caixa)
