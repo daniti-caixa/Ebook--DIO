@@ -8,7 +8,7 @@
 
 <p align="center">
 <img 
-    src="./capa.png"
+    src="capa.jpg"
     width="400"  
 />
 </p>
